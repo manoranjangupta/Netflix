@@ -1,9 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-   <p className='text-3xl font-bold text-red-600'>Hello in react</p>
+   <Body/>
   );
 }
 
