@@ -6,6 +6,7 @@
    -- Install firebase CLI npm install -g firebase-tools
    -- Firebase Login     firebase  login
    -- Initlize firebase Firebase init(select hosting)
+   --  Test on local    firebase emulators:start
    -- Deploy command  --   Firebase deploy 
 
 # Create SignUP user with firebase
@@ -17,4 +18,4 @@
    -- Command npm install -D @reduxjs/toolkit
    --          npm install react-redux
    
-
+-- Always use constant.js to keep image URL and constant variable
